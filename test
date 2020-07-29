@@ -1,0 +1,60 @@
+2020-07-28 16:29:06 ERROR DataBase:113 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:30:34 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:30:34 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:30:34 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:30:34 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:31:16 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:31:16 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:31:16 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:31:16 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:33:05 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:33:05 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:33:05 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:33:05 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:34:08 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:34:09 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:34:09 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:34:09 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:34:39 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:34:39 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:34:39 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:34:39 INFO  DataBase:80 - Aucune données trouvées
+2020-07-28 16:35:44 ERROR DataBase:116 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, 1999-02-02)' at line 1
+2020-07-28 16:38:36 ERROR DataBase:116 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?)' at line 1
+2020-07-28 16:41:17 ERROR DataBase:120 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?)' at line 1
+2020-07-28 16:46:56 ERROR DataBase:118 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?)' at line 1
+2020-07-28 16:47:18 ERROR DataBase:118 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?)' at line 1
+2020-07-28 16:47:43 ERROR DataBase:118 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?)' at line 1
+2020-07-28 16:49:06 ERROR DataBase:118 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?)' at line 1
+2020-07-28 16:49:39 ERROR DataBase:118 - java.sql.SQLException: Parameter index out of range (4 > number of parameters, which is 3).
+2020-07-28 16:50:11 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?)' at line 1
+2020-07-28 16:51:02 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?' at line 1
+2020-07-28 16:55:15 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 08:45:29 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 08:59:14 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:00:07 ERROR DataBase:117 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:12:04 ERROR DataBase:118 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:21:19 ERROR DataBase:127 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:25:03 ERROR DataBase:126 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:28:09 ERROR DataBase:126 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:33:28 ERROR DataBase:129 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:34:25 ERROR DataBase:131 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:34:59 ERROR DataBase:132 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:35:27 ERROR DataBase:125 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:36:00 ERROR DataBase:125 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:36:52 ERROR DataBase:124 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:37:09 ERROR DataBase:124 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:40:33 INFO  DataBase:88 - Aucune données trouvées
+2020-07-29 09:40:34 INFO  DataBase:88 - Aucune données trouvées
+2020-07-29 09:40:34 ERROR DataBase:124 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 09:40:34 INFO  DataBase:88 - Aucune données trouvées
+2020-07-29 09:42:17 ERROR DataBase:124 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:04:12 ERROR DataBase:133 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:13:26 ERROR DataBase:133 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:13:53 ERROR DataBase:133 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:15:12 ERROR DataBase:133 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:15:53 ERROR DataBase:135 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:16:17 ERROR DataBase:135 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 10:22:23 ERROR DataBase:137 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 11:04:56 ERROR DataBase:138 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
+2020-07-29 13:43:32 ERROR DataBase:138 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? , ? , ?)' at line 1
